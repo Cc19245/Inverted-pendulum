@@ -14,3 +14,6 @@
 
 ## 2.环境
 MATLAB&Simulink R2021a
+
+## 3.对应大作业
+[线性系统大作业——0.一阶和二阶倒立摆建模与控制系统设计](https://blog.csdn.net/qq_42731705/article/details/122465032)
